@@ -1,10 +1,11 @@
 {
-  "name": "respotify",
+  "name": "react-base",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline",    "build": "node node_modules/webpack/bin/webpack.js",
+    "start": "node node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline",
+    "build": "node node_modules/webpack/bin/webpack.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
